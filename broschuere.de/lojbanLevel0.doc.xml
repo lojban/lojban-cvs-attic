@@ -1,0 +1,15 @@
+<?xml version="1.0"?> <!-- -*- DocBook -*- -->
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "/usr/local/docbook/docbookdtd/docbookx.dtd"
+[
+<!ENTITY bookinfo SYSTEM "lojbanInfo.doc.xml">
+<!ENTITY whatis SYSTEM "brochure.doc.xml">
+<!ENTITY less1 SYSTEM "less1.doc.xml">
+<!ENTITY less2 SYSTEM "less2.doc.xml">
+<!ENTITY lessons SYSTEM "lessons.doc.xml">
+<!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
+]>
+<book lang="de">
+&bookinfo;
+&whatis;
+&lessons;
+</book>
