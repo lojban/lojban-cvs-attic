@@ -172,65 +172,59 @@ um zwei aufeinander folgende Vokale h&ouml;rbar zu trennen ohne eine Pause zu ma
 <para>Was f&uuml;r eine Grammatik hat Lojban?</para>
 </question>
 
-<answer> <para><quote role="gloss">Grammar</quote> is a word with painful
-memories for many of us.  But though Lojban grammar seems strange at first
-sight, it is actually quite simple.  It is based on a system called
-predicate logic, which states that in any sentence you have a
-<emphasis>relationship</emphasis> (<foreignphrase
-lang="loj">selbri</foreignphrase> in Lojban) between one or more
-<emphasis>arguments</emphasis> (<foreignphrase
-lang="loj">sumti</foreignphrase>).  An argument can be a thing, event,
-quality or just about anything (quite how you can have a relationship of
-one argument is one of the mysteries of predicate logic!).  To give an
-example, the English sentence 
+<answer> <para>
+
+<quote role="gloss">Grammatik</quote> weckt bei vielen Leuten unangenehme Erinnerungen.
+Auch wenn die Lojban Grammatik auf den ersten Blick recht kompliziert erscheint, so ist sie doch 
+recht einfach. Sie basiert auf der sogenannten Pr&auml;dikatenlogik. Diese  Pr&auml;dikatenlogik 
+dr&uuml;ckt in jedem Satz eine Beziehung (<foreignphrase lang="loj">selbri</foreignphrase> in Lojban)
+zwischen ein oder mehreren Argumenten (<foreignphrase lang="loj">sumti</foreignphrase>) aus. Diese Argumente
+k&ouml;nnen Dinge, Ereignisse, Qualit&auml;ten und noch vieles andere sein. Der Satz
 
 <informalexample>
 <literallayout>
-Chris adores Pat
+Hans liebt Maria
 </literallayout>
 </informalexample>
 
-has a relationship (or <quote role="gloss">function</quote>), 
-<wordasword>adore</wordasword>,
-between two arguments, <wordasword>Chris</wordasword> and <wordasword>Pat</wordasword>. 
-In Lojban this would be 
+dr&uuml;ckt die Beziehung (oder <quote role="gloss">Relation</quote>), 
+<wordasword>liebt</wordasword>,
+zwischen den Argumenten, <wordasword>Hans</wordasword> und <wordasword>Maria</wordasword> aus. 
+In Lojban ist das 
 
 <informalexample>
-<literallayout><foreignphrase lang="loj">la kris.  prami la pat.</foreignphrase></literallayout>
+<literallayout><foreignphrase lang="loj">la xans. prami la marias.</foreignphrase></literallayout>
 </informalexample>
 
-or, if you prefer, 
+oder je nach Belieben auch
 
 <informalexample>
-<literallayout><foreignphrase lang="loj">la kris.  la pat.  prami</foreignphrase></literallayout>
+<literallayout><foreignphrase lang="loj">la xans. la marias. prami</foreignphrase></literallayout>
 </informalexample>
 </para>
 
-
-<para>(The full stops mean that you have to pause slightly to separate the
-words &mdash; anythingelseinLojbancanberuntogetherwithoutbeingmisunderstood). 
-</para>
-
-
-<para>You might be thinking <quote>Well in that case a function is a verb
-and an argument is a noun, so why bother with special terminology like
-<foreignphrase lang="loj">selbri</foreignphrase> and whatnot?</quote>
-However, in Lojban Chris's feelings about Pat might be described like
-this:
+<para>
+Sie denken wahrscheinlich: <quote>Naja, die Relation ist eben ein Verb und das Argument einfach ein Nomen,
+warum soll man also extra neue W&ouml;rter wie
+<foreignphrase lang="loj">selbri</foreignphrase> und so weiter einf&uuml;hren?</quote>
+In Lojban kann man Hans' Gef&uuml;hle f&uuml;r Maria so beschreiben:
 
 <informalexample>
-<literallayout><foreignphrase lang="loj">la pat.  melbi</foreignphrase></literallayout>
+<literallayout><foreignphrase lang="loj">la marias. melbi</foreignphrase>
+Maria ist sch&ouml;n.</literallayout>
 </informalexample>
-
 </para>
 
-<para>In English you have a verb (<quote role="gloss">doing word</quote>), 
-<wordasword>is</wordasword>, and
-an adjective (<quote role="gloss">describing word</quote>), <wordasword>beautiful</wordasword>.  In
-Turkish, you would say <wordasword>Pat g&uuml;zel</wordasword>, which is a noun and an
-adjective, with no verb required.  In Chinese you would use <wordasword>meili</wordasword>, a
-<quote role="gloss">stative verb</quote> &mdash; but enough!  In Lojban you don't need all this.  </para>
+<para>Im Deutschen hat man das Verb (<quote role="gloss">Tu-Wort</quote>), 
+<wordasword>ist</wordasword>, und das Adjektiv (<quote role="gloss">Eigenschaftswort</quote>), 
+<wordasword>sch&ouml;n</wordasword>.  Auf 
+T&uuml;rkisch, w&uuml;rde man sagen<wordasword>Hans g&uuml;zel</wordasword>, 
+was ein Nomen und ein Adjektiv ist, man ben&ouml;tigt also kein Verb.
+Im Chinesischen w&uuml;rde man  <wordasword>meili</wordasword> benutzen, ein
+<quote role="gloss">Statisches Verb</quote> &mdash; aber genug!  In Lojban braucht man das alles nicht.
+</para>
 
+<!--bookmark-->
 
 <para>Now, if there are no nouns, verbs, subjects or objects in Lojban, how
 do we know that <foreignphrase lang="loj">la kris. 
